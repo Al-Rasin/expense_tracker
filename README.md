@@ -1,6 +1,8 @@
-This is a simple expense tracker app.This app is made with flutter.
-
-This is a personal skill improvements project.I am devided these into 8 phases.Below given details of 8 phases in 18 days.
+#This is a simple expense tracker app.
+#This app is made with flutter.
+#This is a personal skill improvements project.
+#I am devided these into 8 phases.
+#Below given details of 8 phases in 18 days.
 
 Phases in Detail
 Phase 1 — Foundation & Git
